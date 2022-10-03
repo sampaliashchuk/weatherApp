@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InterviewApp</string>
+    <string name="city">City: %s</string>
+    <string name="high_low_temp">%1$s/%2$s</string>
+
+    <string name="network_unavailable">Network Unavailable.</string>
+    <string name="what_s_the_weather">What\'s the weather?</string>
+</resources>
